@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="Mugen" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{cc527b4d-c28d-40fb-a46a-4978db960594}" progid="Mugen.StandardAddInServer" threadingModel="Both" name="Mugen.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="Mugen.dll" hashalg="SHA1"></file>
+
+</assembly>

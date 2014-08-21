@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 18.0-->
+  <ClassId>{cc527b4d-c28d-40fb-a46a-4978db960594}</ClassId>
+  <ClientId>{cc527b4d-c28d-40fb-a46a-4978db960594}</ClientId>
+  <DisplayName>Mugen</DisplayName>
+  <Description>Mugen</Description>
+  <Assembly>Mugen.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>17..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

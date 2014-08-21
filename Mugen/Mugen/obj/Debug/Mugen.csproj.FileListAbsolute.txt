@@ -1,0 +1,5 @@
+C:\Users\diegoandrade\Documents\styling-and-functional-pattern-design\AddIn\Mugen\Mugen\bin\Debug\Mugen.dll
+C:\Users\diegoandrade\Documents\styling-and-functional-pattern-design\AddIn\Mugen\Mugen\bin\Debug\Mugen.pdb
+C:\Users\diegoandrade\Documents\styling-and-functional-pattern-design\AddIn\Mugen\Mugen\obj\Debug\Mugen.dll
+C:\Users\diegoandrade\Documents\styling-and-functional-pattern-design\AddIn\Mugen\Mugen\obj\Debug\Mugen.pdb
+C:\Users\diegoandrade\Documents\styling-and-functional-pattern-design\AddIn\Mugen\Mugen\obj\Debug\Mugen.csprojResolveAssemblyReference.cache
